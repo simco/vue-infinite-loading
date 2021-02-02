@@ -1,5 +1,5 @@
 /*!
- * vue-infinite-loading v2.5.1.0
+ * vue-infinite-loading v2.4.5.1
  * (c) 2016-2021 PeachScript
  * MIT License
  */
